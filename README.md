@@ -4,10 +4,21 @@ This specific project implements an initial model of a web application regarding
 
 
 
-
 ![CoMa app (1) (1)](https://user-images.githubusercontent.com/17185057/218892272-0c6f01a2-e5cf-40cb-a9ec-af34a38fd27b.png)
+
+
 
 
 ### Authors
 
 - [@vaggelisbarb](https://github.com/vaggelisbarb)
+
+
+## Screenshots
+
+- Login Page
+---
+![image](https://user-images.githubusercontent.com/17185057/218893832-e6380896-19bc-473c-aa2e-8d6c33b97c5f.png)
+
+- Courses Menu
+![image](https://user-images.githubusercontent.com/17185057/218894070-88f0560d-535e-4dbf-95ee-cb3c1a0ea400.png)
